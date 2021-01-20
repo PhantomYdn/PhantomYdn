@@ -11,6 +11,11 @@
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/naryzhny)
 [![Telegram](https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naryzhnyy)
 
+### My stats
+
+![Ilya's github stats](https://github-readme-stats.vercel.app/api?username=phantomydn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomydn&layout=compact)
+
 <!--
 **PhantomYdn/PhantomYdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
