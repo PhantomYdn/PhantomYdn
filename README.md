@@ -3,7 +3,7 @@
 
 ### My CV
 
-[![CV](https://img.shields.io/badge/CV-ydn.ru-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ydn.ru)
+[![CV](https://img.shields.io/badge/CV-phantomydn.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phantomydn.github.io)
 
 ### Where to find me
 
